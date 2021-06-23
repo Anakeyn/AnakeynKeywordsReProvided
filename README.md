@@ -22,3 +22,5 @@ In config.py please provide your APIs Credentials and IDs from Google Analytics 
 - VIEW_ID = '12345678'  
 - SITE_URL =  "https://www.mysite.com"  
 
+
+More information (In French) on my blog : https://www.anakeyn.com/2021/06/23/recuperer-mots-cles-not-provided-google-analytics-google-search-console-python/
